@@ -22,3 +22,9 @@ print(days_list)
 #But if you want to remove specific item then
 days_list.pop(3)
 print(days_list)
+
+
+#just a practice
+list = ['a', 'b', 'c']
+list += 'de'
+print(list)
